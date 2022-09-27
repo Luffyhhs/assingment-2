@@ -1,0 +1,1 @@
+console.log('It is happy to learn.')
